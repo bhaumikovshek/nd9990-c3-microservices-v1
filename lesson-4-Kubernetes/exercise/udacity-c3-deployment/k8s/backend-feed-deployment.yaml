@@ -10,6 +10,7 @@ spec:
     metadata:
       labels:
         service: backend-feed
+        api: external
     spec:
       containers:
       - image: bhaumikovshek/udacity-c3-restapi-feed
