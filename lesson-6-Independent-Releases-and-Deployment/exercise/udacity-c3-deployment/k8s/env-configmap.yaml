@@ -7,7 +7,7 @@ data:
   JWT_SECRET: helloworld
   POSTGRESS_DB: udacityrds
   POSTGRESS_HOST: udacityrds.cjaychvrqkhk.us-east-1.rds.amazonaws.com
-  URL: https://2AE2C21850DD0F87D52DE1F895626B72.yl4.us-east-1.eks.amazonaws.com
+  URL: http://localhost:8100
 metadata:
   name: env-config
   
